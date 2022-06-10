@@ -1,0 +1,20 @@
+[
+ {
+ 'nombreProducto': 'Cafe Brasilero',
+ 'precio': 1900,
+ 'thumbnail': 'https://github.com/jmamadi/aplicativoreact/blob/main/appreact/public/images/bandera_2.png',
+ "id": 1
+ },
+ {
+ 'nombreProducto': 'Cafe Colombiano',
+ 'precio': 1500,
+ 'thumbnail': 'https://github.com/jmamadi/aplicativoreact/blob/main/appreact/public/images/bandera_1.png',
+ "id": 2
+ },
+ {
+ 'nombreProducto': 'Cafe Hindú',
+ 'precio': 2000,
+ 'thumbnail': 'https://github.com/jmamadi/aplicativoreact/blob/main/appreact/public/images/bandera_4.png',
+ "id": 3
+ }
+]
